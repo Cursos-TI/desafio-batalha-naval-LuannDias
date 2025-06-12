@@ -1,3 +1,13 @@
+# Instruções para executar o programa
+
+Você pode executar o programa de duas formas:  
+1 - Pelo terminal, digitando o comando para executar o arquivo `batalhaNaval.exe`.  
+2 - Abrindo o código em um editor como o VSCode, compilando (buildando) e executando o programa diretamente.
+
+---
+
+
+# Conteúdo que já estava no arquivo README:
 # ⚠️ Importante!!!
 Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
 
